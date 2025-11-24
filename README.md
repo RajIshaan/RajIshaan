@@ -13,8 +13,8 @@ Building things, learning fast, and experimenting with AI.
 - 🎨 I also do **digital art** & design  
 - 🤝 Open to collaborating on small but impactful projects  
 - 💡 Looking for guidance on improving full-stack & system design skills  
-- 📨 Reach me at: **your-email-here@gmail.com**  
-- 🔗 Portfolio (optional): *add later when you build one*
+- 📨 Reach me at: **ishaan.avgdev@gmail.com**  
+
 
 ---
 
