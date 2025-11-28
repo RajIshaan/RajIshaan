@@ -35,7 +35,7 @@ Building things, learning fast, and experimenting with AI.
 ---
 
 ### 🤝 Connect With Me  
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://www.linkedin.com/in/ishaan-raj/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 
 ---
 
