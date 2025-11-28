@@ -8,7 +8,7 @@ Building things, learning fast, and experimenting with AI.
 ---
 
 ### 🚀 About Me  
-- 👨‍💻 I’m currently working on **Mailora AI** – an email assistant powered by AI  
+- 👨‍💻 I’m currently working on **FirstLight AI** – an email assistant powered by AI  
 - 📚 Learning **Web Dev**, **AI/ML**, and **Backend Engineering**  
 - 🎨 I also do **digital art** & design  
 - 🤝 Open to collaborating on small but impactful projects  
